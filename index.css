@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    background-image: url("https://cdn.dribbble.com/users/3217672/screenshots/6028914/high-resolution-3d-earth-africa.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+    color: silver;
+}
